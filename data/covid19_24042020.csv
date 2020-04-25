@@ -1,4 +1,4 @@
 name,url
-Time series covid19 confirmed global,https://raw.githubusercontent.com/dnzengou/map-dashboard/master/data/covid_19_data_confirmed_26042020.csv
-Time series covid19 deaths global,https://raw.githubusercontent.com/dnzengou/map-dashboard/master/data/covid_19_data_deaths_26042020.csv
-Time series covid19 recovered global,https://raw.githubusercontent.com/dnzengou/map-dashboard/master/data/covid_19_data_recovered_26042020.csv
+Time series covid19 confirmed global,https://raw.githubusercontent.com/dnzengou/map-dashboard/master/data/sum_confirmed_df_24042020.csv
+Time series covid19 deaths global,https://raw.githubusercontent.com/dnzengou/map-dashboard/master/data/sum_death_df_24042020.csv
+Time series covid19 recovered global,https://raw.githubusercontent.com/dnzengou/map-dashboard/master/data/sum_recovered_df_24042020.csv
