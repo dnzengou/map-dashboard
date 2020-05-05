@@ -4,7 +4,6 @@
 ![COVID-19data](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset/data)
 
 ## Visualizations
-![COVID-19_cases-sublploting](plots/COVID-19_cases-sublploting.png)
-![COVID-19 log_confirmed-cases_over-time](plots/COVID-19-log_confirmed-cases_over-time.png)
-![COVID-19 log_death-cases_over-time](plots/COVID-19-log_death-cases_over-time.png)
+![COVID-19_log_confirmed-cases-sublploting](plots/COVID-19_log_confirmed-cases_04052020.png)
+![COVID-19 log_death-cases-subploting](plots/COVID-19_log_deaths-cases_04052020.png)
 ![COVID-19 plot](plots/plot_covid19_2020.png)
